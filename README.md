@@ -1,1 +1,11 @@
-# alx-project-0x14
+# API Documentation
+## API Version
+
+
+
+
+## Available Endpoints
+## Request and Response Forma
+## Authentication
+## Error Handling
+## Usage Limits and Best Practices
